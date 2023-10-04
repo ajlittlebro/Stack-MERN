@@ -1,4 +1,3 @@
-import app from './config/app';
 import express from "express";
 import { PORT } from "./config.js";
 import indexRoutes from "./routes/index.routes.js";
